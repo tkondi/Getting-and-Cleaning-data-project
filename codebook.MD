@@ -56,14 +56,14 @@ Notes:
 2. Use setwd to cheange the working directory to the directory where the zip has been unzipped.
 3. Run run_analysis.R that will create the tidy file: tidy_mean_std.txt
 
-#Details of fields belonging to the tidy dataset.
+#Details of fields belonging to the tidy dataset
 
 ##Identifier fields
 "subject": Subject id of the user performing the test
 "activity_id": id of the activity
 "activity" : label of the activity
  
-##Measurements, mean measurements for a give subject-activity:
+##Measurements, mean measurements for a give subject-activity
 "tBodyAcc-mean()-X" 
 "tBodyAcc-mean()-Y" 
 "tBodyAcc-mean()-Z" 
